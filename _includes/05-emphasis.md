@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I know **Ruby** and _rails_
+
+One _ is _italics_ and two __are bold__
+same *with* the **stars**
